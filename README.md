@@ -4,7 +4,7 @@ This repository contains a Python implementation of a 10-armed bandit problem, w
 
 ## Overview
 
-The 10-armed bandit problem is a classic problem in reinforcement learning where an agent (or gambler) faces a series of 10 slot machines (bandits) with different payout probabilities. The agent's objective is to maximize the cumulative reward over a series of plays by balancing exploration (trying out different bandits) and exploitation (choosing the bandit with the highest expected payout).
+The 10-armed bandit problem is a classic problem in reinforcement learning where an agent (or gambler) faces a series of 10 slot machines (bandits) with different payout probabilities. The agent's objective is to maximize the cumulative reward over a series of plays by balancing exploration (trying out different bandits) and exploitation (choosing the bandit with the highest expected payout). The python file exists in the `master` branch.
 
 ## Features
 
